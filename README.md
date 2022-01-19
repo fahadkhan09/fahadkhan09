@@ -16,7 +16,7 @@ which allow me to continue to develop my knowledge and potential.
 
 ### Things you should know
 
-- 🔭 <b>Currently working on:</b> Django , Vuejs, Angular
+- 🔭 <b>Currently working on:</b> Django , Vuejs, Angular, Reactjs
 - 🌱 <b>Getting better at:</b> Javascript, Python
 - 🤔 <b>Exploring:</b> Reactjs, Flask,
 - ⚡  <b>Fun fact: </b> I am a lazy developer who is amazed by the power of technology 😄

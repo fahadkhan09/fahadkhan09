@@ -31,7 +31,7 @@ google-api-python-client​ that simplifies many common Google Drive API tasks.
   "languages": ["Python","PHP", "JavaScript"],
   "frameworks/libraries": {
     "backend": ["Django", "Codeignitor"],
-    "frontend": ["Vuejs", "Angular","Bootstrap"], 
+    "frontend": ["Vuejs", "Angular","Bootstrap", "Reactjs", "Ant Design"], 
   },
   "database": ["Mysql", "Postgres"],
   "tools": ["VS Code","PHP Storm", "Pycharm"]
